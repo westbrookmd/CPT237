@@ -1,3 +1,11 @@
+//*********************************************
+//
+// Assignment 3 Helper Class
+//
+// Author: Marshall Westbrook
+// Date: 2/14/22
+//*********************************************
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
